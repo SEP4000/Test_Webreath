@@ -16,7 +16,7 @@ Pour pouvoir déclencher la génération de données de manière aléatoire et q
   
   ![image2](image2.png)
   
-- Dand **Déclencheurs** lui définir un temps , j'ai décidé qu'il fallait le faire qu'une fois, seulement quand on  clique sur le bouton 'Déclencher la génération de données' dans Module.php. Et je veux que cela se fasse toutes les 5 minutes durant 15 minutes (vous pouvez changer cela si vous voulez)
+- Dans **Déclencheurs** lui définir un temps , j'ai décidé qu'il fallait le faire qu'une fois, seulement quand on  clique sur le bouton 'Déclencher la génération de données' dans Module.php. Et je veux que cela se fasse toutes les 5 minutes durant 15 minutes (vous pouvez changer cela si vous voulez)
   
   ![image3](image3.png)
   
