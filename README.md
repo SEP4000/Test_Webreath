@@ -26,4 +26,4 @@ Pour pouvoir déclencher la génération de données de manière aléatoire et q
  
 - Après avoir fait tout ça on pourra finir la création de la tâche.
 
-  Ainsi, on vient de définir la tâche, on peut exécuter la tâche pour créer des données aléatoire qui se mettent dans la table donnée pour les modules déjà crées, on peut aussi le faire en cliquant sur le bouton **Déclencher la génération de données** dans Module.php
+  Ainsi, on vient de définir la tâche, on peut exécuter la tâche pour créer des données aléatoires qui se mettent dans la table donnée pour les modules déjà crées, on peut aussi le faire en cliquant sur le bouton **Déclencher la génération de données** dans Module.php
