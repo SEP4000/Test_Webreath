@@ -20,7 +20,7 @@ Pour pouvoir déclencher la génération de données de manière aléatoire et q
   
   ![image3](image3.png)
   
-- Dans **Actions**, il faudra définir qu'elle programme il faudra enclencher, d'abord avec quels applications il devra lui faire, puis quels script il devra enclencher. Comme c'est un fichier Php, il faudra d'abord donner le chemin vers l'application Php et ensuite le lien vers le fichier generate_data.php (attention il faudra laisser un espace entre les deux), par exemple pour moi, dans **Programme/Script**, j'ai mis ça : C:\laragon\bin\php\php-8.2.1-Win32-vs16-x64\php.exe C:\laragon\www\php\webreath_test\generate_data.php
+- Dans **Actions**, il faudra définir quel programme il faudra enclencher, d'abord avec quelle application il devra lui faire, puis quel script il devra enclencher. Comme c'est un fichier Php, il faudra d'abord donner le chemin vers l'application Php et ensuite le lien vers le fichier generate_data.php (attention il faudra laisser un espace entre les deux), par exemple pour moi, dans **Programme/Script**, j'ai mis ça : C:\laragon\bin\php\php-8.2.1-Win32-vs16-x64\php.exe C:\laragon\www\php\webreath_test\generate_data.php
   
  ![image4](image4.png)
  
